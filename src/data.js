@@ -72,7 +72,7 @@ export const tours = [
     id: 4,
     image: tour4,
     date: "december 5th, 2024",
-    title: "Kerala highlights",
+    title: "Kerala tuskers",
     info: "Come to see the beauty of Nature where heaven touches the greenery.",
     place: "Kerala",
     duration: "9 days",
